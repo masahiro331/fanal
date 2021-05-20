@@ -28,6 +28,8 @@ require (
 	github.com/knqyf263/nested v0.0.1
 	github.com/kylelemons/godebug v1.1.0
 	github.com/magefile/mage v1.11.0 // indirect
+	github.com/masahiro331/go-ext4-filesystem v0.0.0-20210515073007-911cadc9c313 // indirect
+	github.com/masahiro331/go-vmdk-parser v0.0.0-20210505084744-888be190c3f6 // indirect
 	github.com/open-policy-agent/conftest v0.23.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.0.2-0.20190823105129-775207bd45b6
